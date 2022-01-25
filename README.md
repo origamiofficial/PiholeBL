@@ -16,9 +16,4 @@ Who can use these malicious domains?
 * We make them available for non-commercial consumption. Please contact upstream if you'd like to have premimum access with a fee.
 
 Blacklist Upstream:
-{domainbl,
-  title = {DomainBL: A Proactive Malicious Domain Blocklist},
-  author = {Mohamed Nabeel},
-  year = {2022},
-  url = {https://github.com/nabeelxy/domainBL}
-}
+[DomainBL](https://github.com/nabeelxy/domainBL): A Proactive Malicious Domain Blocklist
