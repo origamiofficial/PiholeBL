@@ -3,8 +3,8 @@
 What is DomainBL?
 * A periodically updated list of malicious domains first observed on a given day.
 * We create two lists
-  * [ApexBLPihole](https://raw.githubusercontent.com/anjumrafidofficial/PiholeBL/main/ApexBLPihole.txt) - malicious apex domains
-  * [PublicBLPihole](https://raw.githubusercontent.com/anjumrafidofficial/PiholeBL/main/PublicBLPihole.txt) - malicious full qualified domains hosted on public hosting domains
+  * [ApexBLPihole](https://raw.githubusercontent.com/anjumrafidofficial/PiholeBL/main/ApexBLPihole.txt) - malicious apex domains | Domains that are involved directly
+  * [PublicBLPihole](https://raw.githubusercontent.com/anjumrafidofficial/PiholeBL/main/PublicBLPihole.txt) - malicious full qualified domains hosted on public hosting domains | Subdomains that used publicly available services
 
 How do we create DomainBL?
 * We utilize state of the art ML/AI technologies to identify malicious domains.
