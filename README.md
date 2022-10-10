@@ -1,5 +1,5 @@
 # PiholeBL - Domain BlockList
-![GitHub file size in bytes](https://img.shields.io/github/size/origamiofficial/PiholeBL/ApexBLPihole.txt?label=ApexBLPihole) ![GitHub file size in bytes](https://img.shields.io/github/size/origamiofficial/PiholeBL/PublicBLPihole.txt?label=PublicBLPihole) ![GitHub line count](https://sloc.xyz/github/origamiofficial/PiholeBL)
+![GitHub file size in bytes](https://img.shields.io/github/size/origamiofficial/PiholeBL/ApexBLPihole.txt?label=ApexBLPihole) ![GitHub file size in bytes](https://img.shields.io/github/size/origamiofficial/PiholeBL/PublicBLPihole.txt?label=PublicBLPihole) ![Hits-of-Code](https://hitsofcode.com/github/origamiofficial/piholebl?branch=main)
 
 What is DomainBL?
 * A periodically updated list of malicious domains first observed on a given day.
