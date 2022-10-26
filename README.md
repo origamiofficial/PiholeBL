@@ -28,4 +28,4 @@ Blacklist Upstream:
   url = {https://github.com/nabeelxy/domainBL}
 }
 ```
-[![HitCount](https://hits.dwyl.com/origamiofficial/PiholeBL.svg?style=flat&show=unique)](http://hits.dwyl.com/origamiofficial/PiholeBL)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/origamiofficial/PiholeBL&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/origamiofficial/PiholeBL)
